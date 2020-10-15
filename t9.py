@@ -11,7 +11,7 @@ def nao_entre_em_panico():
     while p < limite:
         ehprimo = 1
         for i in range(2, numero):
-            if numero % == 0:
+            if numero % i == 0:
                 ehprimo = 0
                 break
         if (ehprimo):
